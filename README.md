@@ -61,7 +61,7 @@ public class c : MonoBehaviour
 
 ## Output:
 
-<img width="1915" height="1054" alt="image" src="https://github.com/user-attachments/assets/0fbbd930-d645-4afd-b553-1013d17923d7" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/49cc623b-f9a3-469a-aa36-cd0fa5991e59" />
 
 ## Result:
 Thus a 3D application for rotating the gaming objects in unity is developed successfully.
